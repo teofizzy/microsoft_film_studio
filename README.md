@@ -8,10 +8,13 @@ Microsoft desires to venture into the movie production industry and they have se
 
 The anaysis is based upon four main questions:
 
-Which genre combination and independent genre is most popular?
-Which month is lucrative to release the movies?
-What is the relationship between production budget and revenue earned?
-How much would you expect to spend on a good movie?
+- Which genre combination and independent genre is most popular?
+
+- Which month is lucrative to release the movies?
+
+- What is the relationship between production budget and revenue earned?
+
+- How much would you expect to spend on a good movie?
 ## Data Understanding
 The study made use of data from two sources in order to perform an analysis of the movie industry:
 
