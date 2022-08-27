@@ -21,3 +21,32 @@ The study first perfomed a merger of movie_basics with movie_ratings then a merg
 ## Data Collection
 The data was collected from two sources. The first is the IMDb database that the study queried using SQLite in order to obtain movie_basics and movie_ratings. The movie_basics table contained data on movie id, primary title, original title, genre, release year, and runtime minutes while the movie_ratings table contained data on movie id, average ratings, and the number of votes. The study then joined the two tables using the primary key of the movie id. From The Numbers, the study had access to data on movie titles, release dates, production budgets, domestic gross revenue, and worldwide gross revenue.
 ## Data Description
+### Below are the variables and their respective descriptions:
+#### title
+Movie name
+#### runtime mins
+Movie length in minutes
+#### genres 
+Genre of movie
+#### average_rating 
+Mean rating of movie,
+#### release_date
+Date movie was released,
+#### production_budget_usd
+Production budget of the movie in USD,
+#### domestic_gross_usd 
+Domestic income from the movie in the US in USD,
+#### worldwide_gross_usd 
+Foreign income from the movie in USD,
+#### return_on_investment
+Total revenue - production budget in USD,
+#### total_revenue
+Foreign income + domestic income in USD,
+#### month 
+Month movie was released
+## Conclusion
+From the evaluation above, I would recommend that Microsoft take the following approach:
+### Short term Strategy
+In the short term, the study recommends that Microsoft should focus on making a name for themselves in the short run and thus produce a Documentary/Drama/Action movie to be released between April and July or between November and March on a budget of around 41 million US dollars that will increase the probability of obtaining ratings of 8.2 and above. This will most likely cause them to gain popularity.
+### Long Term Strategy
+In the long term the study recommends that Microsoft should focus on getting value for their money and produce an Action/Adventure/Sci-Fi movie that is produced on a budget of around 49 million US dollars. They should do this along with producing Drama/Documentary/Action in order to rise high in the charts of movie studios.
