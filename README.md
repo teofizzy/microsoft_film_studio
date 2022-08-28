@@ -8,10 +8,13 @@ Microsoft desires to venture into the movie production industry and they have se
 
 The anaysis is based upon four main questions:
 
-Which genre combination and independent genre is most popular?
-Which month is lucrative to release the movies?
-What is the relationship between production budget and revenue earned?
-How much would you expect to spend on a good movie?
+- Which genre combination and independent genre is most popular?
+
+- Which month is lucrative to release the movies?
+
+- What is the relationship between production budget and revenue earned?
+
+- How much would you expect to spend on a good movie?
 ## Data Understanding
 The study made use of data from two sources in order to perform an analysis of the movie industry:
 
@@ -45,7 +48,7 @@ Foreign income + domestic income in USD,
 #### month 
 Month movie was released
 ## Conclusion
-From the evaluation above, I would recommend that Microsoft take the following approach:
+From the evaluation in the analysis, I would recommend that Microsoft take the following approach:
 ### Short term Strategy
 In the short term, the study recommends that Microsoft should focus on making a name for themselves in the short run and thus produce a Documentary/Drama/Action movie to be released between April and July or between November and March on a budget of around 41 million US dollars that will increase the probability of obtaining ratings of 8.2 and above. This will most likely cause them to gain popularity.
 ### Long Term Strategy
